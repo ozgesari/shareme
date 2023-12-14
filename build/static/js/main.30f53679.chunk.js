@@ -1,0 +1,2 @@
+(this.webpackJsonpshareme_frontend=this.webpackJsonpshareme_frontend||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);t(0);var r=t(3),o=t.n(r),s=t(1);var c=()=>Object(s.jsx)("h1",{className:"text-3xl font-bold underline",children:"Hello world!"});t(9);o.a.render(Object(s.jsx)(c,{}),document.getElementById("root"))},9:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.30f53679.chunk.js.map
